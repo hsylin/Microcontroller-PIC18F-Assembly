@@ -1,0 +1,66 @@
+Warning[205] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 1 : Found directive in column 1. (LIST)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 7 : Found label after column 1. (L1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 8 : Found label after column 1. (L2)
+Warning[205] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 33 : Found directive in column 1. (endm)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 37 : Found opcode in column 1. (MOVLW)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 38 : Found opcode in column 1. (MOVWF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 39 : Found opcode in column 1. (CLRF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 40 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 41 : Found opcode in column 1. (CLRF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 42 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 43 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 44 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 45 : Found opcode in column 1. (BCF)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 53 : Found label after column 1. (open1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 76 : Found label after column 1. (open2)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 99 : Found label after column 1. (open3)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 122 : Found label after column 1. (open4)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 19 : Found label after column 1. (LOOP2)
+Warning[202] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 20 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 22 : Found label after column 1. (LOOP1)
+Warning[205] C:\USERS\LIN\MPLABXPROJECTS\HW6.X\HW6-3.ASM 141 : Found directive in column 1. (end)

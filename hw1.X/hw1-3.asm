@@ -1,0 +1,24 @@
+LIST p=18f4520
+
+    #include<p18f4520.inc>
+
+	CONFIG OSC = INTIO67
+
+	CONFIG WDT = OFF
+
+	org 0x00
+initial:
+    CLRF  WREG
+    MOVLW b'00001111'
+    MOVWF 0x000
+    MOVWF 0x002
+    MOVLW b'00110011'
+    MOVWF 0x001
+    ANDWF 0x000,1
+    COMF 0x000
+    IORWF 0x002,0
+    ANDWF 0x000,0
+    MOVWF 0x002
+end
+
+

@@ -1,0 +1,49 @@
+#INCLUDE <p18f4520.inc>
+	CONFIG OSC = INTIO67
+	CONFIG WDT = OFF 
+	org 0x10 
+Initial:	
+    
+MOVLW 0x04
+MOVWF 0x04   
+MOVLW	 0x10
+MOVWF 0x00
+MOVLW	 0x11
+MOVWF 0x01	
+MOVLW	 0x12
+MOVWF 0x02	
+MOVLW	 0xFF
+MOVWF 0x03	
+MOVLW	 0x20
+MOVWF 0x10	
+MOVLW	 0x21
+MOVWF 0x11	
+MOVLW	 0x22
+MOVWF 0x12	
+MOVLW	 0xFF
+MOVWF 0x13
+LFSR 0, 0x03
+LFSR 1, 0x13
+LFSR 2, 0x23
+
+for:
+    ;wreg=fsr0+fsr1
+    MOVFF POSTDEC0 ,WREG
+    ADDWF POSTDEC1 , 0
+    
+    BNC finish
+    
+    DECF INDF2
+    INCF POSTDEC2
+    INCF POSTINC2
+    
+    finish:
+    ADDWF INDF2 , 0
+    MOVWF POSTDEC2
+    DECFSZ 0x04
+    GOTO for
+    nop
+end
+
+
+

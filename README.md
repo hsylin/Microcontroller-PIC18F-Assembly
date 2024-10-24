@@ -4,6 +4,7 @@ In this course, I delved into the hardware architecture of the **PIC18F4520 micr
 
 For details on the specific lab assignments and my implementation code, please refer to the corresponding folders in this repository.
 ## Final Project: Computer Numerical Control(CNC) Plotter
+![](https://github.com/hsylin/Microcontroller-PIC18F-Assembly/blob/main/CNC%20Plotter/CNC%20Plotter.png)
 
 Computer Numerical Control (CNC) refers to the automated control of machining tools such as drills, lathes, grinders, milling machines, and 3D printers through computer systems. A CNC machine follows a pre-written program to transform raw material into a finished product without human intervention. This project serves as a preliminary step towards a CNC machine, focusing on position control by omitting the end effector.
 - **Code and Documentation:** The complete implementation and related files are available in the `CNC Plotter` directory.

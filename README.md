@@ -11,4 +11,4 @@ This project showcases a Computer Numerical Control (CNC) Plotter, designed and 
 ![CNC Plotter Diagram](https://github.com/hsylin/Microcontroller-PIC18F-Assembly/blob/main/CNC%20Plotter/CNC%20Plotter.png)
 
 ---
-**Code and Documentation:** The complete implementation and related files are available in the `CNC Plotter` directory.
+**Code and Documentation:** The complete implementation and related files are available in the [`CNC Plotter`](https://github.com/hsylin/Microcontroller-PIC18F-Assembly/tree/main/CNC%20Plotter) directory.
